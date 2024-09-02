@@ -1,0 +1,4 @@
+apt-get update
+git clone https://github.com/1aN0rmus/TekDefense-Automater.git
+cd TekDefense-Automater
+./Automater.py -h
